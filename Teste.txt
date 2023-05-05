@@ -1,0 +1,1 @@
+Esse é apenas um teste de comunicação do Git com GitHub para adicionar todos os arquivos com o comando que está dentro das aspas simples: 'git add .'
